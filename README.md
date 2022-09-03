@@ -1,0 +1,1 @@
+## Todavía estoy construyendo este repo, el slidershow aun no es funcional
